@@ -4,7 +4,7 @@
 
  - Sou professor de nível superior em Desenvolvimento de Software Multiplataforma - DSM na **FATEC**
  - Atuando nos cursos de Sistemas de Informação, Engenharia da Computação, Ciências de Dados.
- - Para maior interesse segue na vida acadêmica: </i><a href="http://lattes.cnpq.br/5565311265198737">Curriculum Lattes</a>
+ - Para maior interesse segue meu: </i><a href="http://lattes.cnpq.br/5565311265198737">Curriculum Lattes</a>
 
  
 Atualmente com foco nessas tecnologias:   
