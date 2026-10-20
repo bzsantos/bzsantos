@@ -36,10 +36,16 @@ Atualmente com foco nessas tecnologias:
 ##
 **Livros e artigos publicados**
 
+- Livro: <a href="https://www.amazon.com.br//dp/B0GYMQTYGW">Criando agentes inteligentes com LLMs: o guia prático de engenharia de software com RAG e MCP<a>
+- Livro: <a href="https://www.amazon.com.br//dp/B0HMNV4YS1">Desenvolvimento fullstack: React, NestJS, DevOps, Agentes de IA, LLMs, RAG e MCP<a>
+- Livro: <a href="https://zenodo.org/records/23150047">Guia completo de SQL com MySQL<a> 
 - Livro: <a href="https://pt.scribd.com/document/503650167/Paradigma-e-logica-de-programacao">Paradigmas de Programação<a>
 - Livro:  <a href="https://www.passeidireto.com/arquivo/98226514/desenvolvimento-java-web">Desenvolvimento JAVA WEB<a>
-- Capítulo de Livro:  <a href="https://fei.edu.br/sites/premio/FEI_2015.pdf">CONSTRUÇÃO COLABORATIVA: ESTUDO DO EMPREGO DA FOLKSONOMIA EM. SISTEMAS E-LEARNING<a>
+- Capítulo de Livro:  <a href="https://fei.edu.br/sites/premio/FEI_2015.pdf">Construção colaborativa: Estudo do emprego da folksonomia em sistemas e-learning<a>
+
+- Artigo: <a href="https://revista.fateccruzeiro.edu.br/index.php/htec/article/view/429">Um Método de Inteligência Artificial para o Aprendizado Significativo Aplicando Matrizes de Markov, 2025</a>
 - Artigo: <a href="https://www.academia.edu/118554953/Applying_machine_learning_for_tag_classification_in_a_collaborative_knowledge_system">Applying machine learning for tag classification in a collaborative knowledge system, 2024</a>
+- Artigo: <a href="https://publicacoescgesg.cps.sp.gov.br/fma/article/view/464">Aprendizagem Colaborativa: Prática de Tagging no Processo de Avaliação Contínua com Mapas Mentais, 2024</a>
 - Artigo: <a href="https://www.academia.edu/118554952/A_Metrics_Based_Approach_to_Metadata_Classification_Applied_in_a_Recommendation_System">A Metrics-Based Approach to Metadata Classification Applied in a Recommendation System, 2023</a>
 - Artigo: <a href="http://www.pos.cps.sp.gov.br/files/artigo/file/951/63b82e94323153145030697bf37ff47f.pdf">Melhoria da Qualidade de Metadados em Sistema de Classificação em Redes Sociais, 2020</a>
 - Artigo: <a href="https://pcs.usp.br/wpgec/wp-content/uploads/sites/18/2020/04/Anais-2019.pdf">Metadata Classification Algorithm in Social Networking Systems, 2019</a>
