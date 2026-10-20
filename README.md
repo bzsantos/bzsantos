@@ -20,7 +20,8 @@ Atualmente com foco nessas tecnologias:
 <img width="54px" height="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img width="54px" height="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 <img width="54px" height="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />           
-<img width="54px" height="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />                    
+<img width="54px" height="54px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />        
+<img width="44px" height="54px" src="lhamaLogo2.png" />    
 <div>         
 
 ##
